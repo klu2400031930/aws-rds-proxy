@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+.DS_Store
+cloud-exam-frontend/node_modules/
+cloud-exam-frontend/dist/
+cloudexam-lambda-backend/node_modules/
